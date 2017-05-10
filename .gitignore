@@ -1,0 +1,6 @@
+*.lock.json
+*.user
+bin
+obj
+.vs
+OfxClientIntegrationTests.cs
